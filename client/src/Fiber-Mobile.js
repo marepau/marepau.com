@@ -108,7 +108,7 @@ const More = styled.div`
 
 function FiberMobile(){
   return(
-    // <ProjectsContainer>
+  
       <IndvProject>
         <LeftLayout>
           <ProjImages>
@@ -153,7 +153,7 @@ function FiberMobile(){
           </SimpleHSection>
         </RightLayout>
       </IndvProject>
-    // </ProjectsContainer>
+
   )
 }
 
