@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marepau/marepau.git"
+    "url": "git+https://github.com/marepau/marepau.com.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/marepau/marepau/issues"
+    "url": "https://github.com/marepau/marepau.com/issues"
   },
   "homepage": "http://www.marepau.com/",
   "dependencies": {
